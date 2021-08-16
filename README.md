@@ -2,8 +2,8 @@
 
  <div>
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevThiagoOliveira&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevThiagoOliveira&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevThiagoOliveira&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevThiagoOliveira&layout=compact&langs_count=7&theme=highcontrast">
 </div>
   
 ## Estudando
@@ -21,4 +21,4 @@
   <img height= "25"src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </div>
   
-![snake animation]()
+![snake animation]( )
