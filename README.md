@@ -1,13 +1,5 @@
 ### Ôpa!! Olá meu caro.. 🖐️
 
-style{
-
- a{
-  text-decoration: none;
- }
-
-}
-
  <div>
   <a href="https://github.com/DevThiagoOliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevThiagoOliveira&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
@@ -17,11 +9,11 @@ style{
 ## Estudando
 
  <div>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" style="text-decoration: none;">
   <img align="center" height= "25" href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" src= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" >
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" style="text-decoration: none;">
   <img align="center" height= "25" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" style="text-decoration: none;"> 
   <img align="center" height= "25" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div>
 
