@@ -5,9 +5,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevThiagoOliveira&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevThiagoOliveira&layout=compact&langs_count=7&theme=highcontrast">
 </div>
- 
- Estudando
-## 
+
+## Estudando
 
  <div>
   <img align="center" height= "25" href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" src= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" >
