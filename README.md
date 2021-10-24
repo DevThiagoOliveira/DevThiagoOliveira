@@ -9,7 +9,7 @@
 ## Estudando
 
  <div>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" style="-moz-text-decoration-style: none;">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" style="text-decoration-style: none;">
   <img align="center" height= "25" href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" src= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" >
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" style="text-decoration: none;">
   <img align="center" height= "25" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
